@@ -7,6 +7,8 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
+  basePath: '/Land-of-Justice',
+assetPrefix: '/Land-of-Justice/',
 };
 
 export default nextConfig;
